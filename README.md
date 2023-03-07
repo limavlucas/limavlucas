@@ -1,3 +1,6 @@
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/limavlucas/)](https://www.linkedin.com/in/limavlucas/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lucs_trike/)](https://www.instagram.com/lucs_trike/)
 ### Hi there 👋
 
 <!--
