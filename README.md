@@ -7,7 +7,7 @@
 
 - 😄 Pronomes: Ele/Dele
 
-- 🕹️ Amante de tecnologia.
+- 🕹️ Amante de tecnologia e inovação.
 
 
 ## 🤖 Tecnologias
