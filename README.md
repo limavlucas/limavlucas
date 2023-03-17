@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente aprendendo Desenvolvimento Web Full Stack
 
-- 😄 Pronomes: Ele/Eele
+- 😄 Pronomes: Ele/Dele
 
 - 🕹️ Amante de tecnologia.
 
